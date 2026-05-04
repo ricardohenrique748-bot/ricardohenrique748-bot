@@ -44,6 +44,25 @@ Sou um desenvolvedor apaixonado por criar soluções modernas, eficientes e com 
 - **Modernização de Sistema de Manutenção (ERP)**: Refatoração e atualização completa de UI/UX para um sistema de Ordens de Serviço (estilo Localiza), implementando um *design system* padronizado, escalável e com estética premium.
 
 ---
+### 🧠 Especialização Essencial
+- **Ajustes avançados de DAX e desempenho**:
+- **SQL e processamento de dados analíticos**:
+- **Power bi (Soluções empresarias e escalávaeis)**:
+- **Governanças de dados, Documentação e Padrões**:
+- **Análise operacional (kpis, Manutenção, frota, controle de custo)**:
+---
+
+🏢 Experiência
+- **Eunaman**:
+- **Unidas**:
+- **Imperagro**:
+- **Malut**:
+---
+### 🎓 Formação e Certificações
+- **Bacharelado em Engenharia de Software – UniFatecie (Cursando)**:
+- **MBA em Logística – Faculdade Faveni**:
+- **Bacharelado em Administração – Faculdade Unidas**:
+---
 
 ### 🤖 Linguagens e Tecnologias
 
