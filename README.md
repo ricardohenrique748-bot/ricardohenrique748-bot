@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ricardo Luz
+#Ricardo Luz
 
 **`Desenvolvedor FullStack`**
 
