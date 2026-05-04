@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ricardo Luz
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Ricardo Henrique Pereira da Luz, tenho 31 anos e sou natural de Açailândia - MA. Sou formado em Administração de Empresas, possuo MBA em Logística e atualmente estou cursando Engenharia de Software pela Unifatecie. Atuo como Supervisor de Planejamento Estratégico, com experiência nas áreas de manutenção, suprimentos, logística, controle de estoque, indicadores (KPIs) e análise financeira. Tenho forte interesse por tecnologia e inovação, e venho desenvolvendo sistemas e soluções digitais voltadas para otimização de processos e melhoria da eficiência operacional, especialmente na gestão de frotas, manutenção e planejamento.
 
